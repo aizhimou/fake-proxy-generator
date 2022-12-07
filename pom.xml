@@ -4,7 +4,7 @@
   <groupId>top.asimov</groupId>
   <artifactId>fake-proxy-generator</artifactId>
   <packaging>jar</packaging>
-  <version>1.0-RELEASE</version>
+  <version>0.0.1-SNAPSHOT</version>
   <name>fake-proxy-generator</name>
 
   <properties>
